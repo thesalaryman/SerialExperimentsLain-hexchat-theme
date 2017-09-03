@@ -14,6 +14,6 @@ Basic installation instructions below. For more information see HexChat appearan
 Close HexChat.
 ``` bash
 wget https://github.com/thesalaryman/SerialExperimentsLain-hexchat-theme/releases/download/v1.0/SerialExperimentsLain_hexchat.hct
-unzip intern.hct -d ~/.config/hexchat
+unzip SerialExperimentsLain_hexchat.hct
 ```
 Open HexChat.
