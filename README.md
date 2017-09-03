@@ -1,2 +1,19 @@
-# SerialExperimentsLain-hexchat-theme
-Hexchat color scheme inspired by lu-ren's SerialExperimentsLain vim colorscheme.
+# Serial Experiments Lain
+A Hexchat color scheme inspired by lu-ren's <a href="https://github.com/lu-ren/SerialExperimentsLain">SerialExperimentsLain</a> Vim colorscheme.
+
+## Installation
+Basic installation instructions below. For more information see HexChat appearance [documentation](https://hexchat.readthedocs.org/en/latest/appearance.html).
+
+### Windows
++ Download https://github.com/drzel/intern-hexchat-theme/releases/download/v1.0/intern.hct
++ Close HexChat.
++ Use the HexChat Theme Manager to install it or manually extract the file to %APPDATA%\HexChat.
++ Open HexChat.
+
+### Linux
+Close HexChat.
+``` bash
+wget https://github.com/drzel/intern-hexchat-theme/releases/download/v1.0/intern.hct
+unzip intern.hct -d ~/.config/hexchat
+```
+Open HexChat.
